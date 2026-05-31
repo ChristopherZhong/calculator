@@ -72,4 +72,4 @@ OmniCalc follows a **Modern Minimalist** design philosophy. By removing unnecess
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [Apache License 2.0](LICENSE).
