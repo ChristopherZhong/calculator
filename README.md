@@ -2,6 +2,8 @@
 
 OmniCalc is a full-featured, modern minimalist calculator built with vanilla HTML, CSS, and TypeScript. It leverages the power of **Web Components** for a modular and performant experience, and is designed to be easily deployed to GitHub Pages.
 
+🔗 **Live Demo:** [https://christopherzhong.github.io/calculator/](https://christopherzhong.github.io/calculator/)
+
 ## ✨ Features
 
 - **Basic Arithmetic:** Addition, subtraction, multiplication, and division.
@@ -30,15 +32,15 @@ OmniCalc is a full-featured, modern minimalist calculator built with vanilla HTM
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (v18 or higher recommended)
+- [Node.js](https://nodejs.org/) (v22 or higher recommended)
 - npm (comes with Node.js)
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/omnicalc.git
-   cd omnicalc
+   git clone https://github.com/ChristopherZhong/calculator.git
+   cd calculator
    ```
 
 2. Install dependencies:
@@ -70,4 +72,4 @@ OmniCalc follows a **Modern Minimalist** design philosophy. By removing unnecess
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [Apache License 2.0](LICENSE).
